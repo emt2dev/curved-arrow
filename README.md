@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @curved-arrow, here is my LinkedIn page; https://www.linkedin.com/in/david-duron-41a740229/
 - 👀 I’m interested in programming and CS
-- 🌱 I’m currently learning C, Java, and improving my skills in MERN stack applications; I'm studying for CCNA, AWS CD-Assoc, DevNet-Assoc, and more.
+- 🌱 I’m currently learning C, Java, and improving my skills in MERN stack applications; I'm studying for CCNA, RHCSA, and more.
 - 📫 Reach me through my contact information on LinkedIn
 
 <!---
