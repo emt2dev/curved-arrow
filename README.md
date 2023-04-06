@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @curved-arrow, here is my LinkedIn page; https://www.linkedin.com/in/david-duron-41a740229/
-- 👀 I’m interested in programming and CS
-- 🌱 I’m currently learning C, Java, and improving my skills in MERN stack applications; I'm studying for CCNA, RHCSA, and more.
-- 📫 Reach me through my contact information on LinkedIn
+- 👋 Hi, I’m @emt2dev, I'm a former Firefighter / Emergency Medical Technician who taught himself how to be a full-stack web developer (LAMP, MERN, ASP.NET, and Java).
 
 <!---
 curved-arrow/curved-arrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
